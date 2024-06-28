@@ -1,2 +1,2 @@
 # rock_paper_scissors_game
-가위 바위 보 게임
+![up_down_game](https://github.com/leeyounghuncom/rock_paper_scissors_game/blob/main/Screenshot%20from%202024-06-28%2020-18-32.png?raw=true)
